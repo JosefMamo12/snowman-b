@@ -19,9 +19,9 @@ const int SEVEN = 7;
 const int EIGHT = 8;
 
 const string STREW_HAT = "     \n _===_\n";
-const string MEXICAN_HAT = "  ___ \n .....\n";
-const string FEZ = "   _  \n  /_\\ \n";
-const string RUSSIAN_HAT = "  ___ \n (_*_)\n";
+const string MEXICAN_HAT = "  ___\n .....\n";
+const string FEZ = "   _\n  /_\\ \n";
+const string RUSSIAN_HAT = "  ___\n (_*_)\n";
 
 const string CLOSED_EYE = "-";
 const string DOT = ".";
